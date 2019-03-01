@@ -1,0 +1,78 @@
+.title{
+   background-color: lightblue;
+    text-align:center;
+    font-size:29px;
+    font-family:'Libre Baskerville', serif;
+    border:solid red;
+    width:805px;
+    height:649px;
+    
+}
+
+ img {
+  
+  height:400px;
+  padding:20px;
+  display:flex;
+ 
+     
+  top: 50%;
+  left: 50%;
+
+
+  }
+  
+ h1 { font-size:20px;
+    background-color:lightgrey;
+} 
+  
+.Okay{
+   justify-content:center;
+    width:805px;
+    background:url("http://nomore.org.au/sites/default/files/logo-fb.png");
+}  
+  
+
+  
+.Lot{
+     height:3px;
+     width:2px;
+     justify-content:center;
+     
+     
+    font-size:40px;
+    width:2005px;
+    background:url("http://nomore.org.au/sites/default/files/logo-fb.png");
+ }     
+   
+  .Number {
+    height:3px;
+    width:1px;
+    justify-content:space-between;
+     
+}
+  
+  h2{
+      font-size:24px;
+      background-color:lightgreen;
+       padding: 40px;
+     border:solid brown 10px;
+  }
+  
+  
+  h3{
+      font-size:24px; 
+      background-color:yellow;
+       padding: 40px;
+     border:solid 10px;
+      
+  }      
+  
+  h4{
+      font-size:24px; 
+      background-color:orange;
+       padding: 40px;
+     border:solid blue 10px;
+  }
+  
+  
